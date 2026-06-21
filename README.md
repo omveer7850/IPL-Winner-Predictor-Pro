@@ -13,3 +13,8 @@
 
 ## Live Demo
 <https://ipl-winner-predictor-pro-usumldp54ltjak2zsfuy8e.streamlit.app/>
+## Application Preview
+
+### Input Screen
+
+![Input Screen](Screenshot_20260621_191508.jpg)
