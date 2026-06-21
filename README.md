@@ -1,15 +1,9 @@
-# IPL Winner Predictor Pro
-
-Machine Learning based IPL Match Winner Predictor.
+# IPL Winner Predictor
 
 ## Features
-- IPL Winner Prediction
-- Team Selection
-- Toss Winner Selection
-- Toss Decision
-- Venue Selection
-- Season Selection
-- Confidence Score
+- Predicts IPL match winner
+- Trained using historical IPL data
+- Streamlit-based web interface
 
 ## Tech Stack
 - Python
@@ -17,8 +11,5 @@ Machine Learning based IPL Match Winner Predictor.
 - Scikit-Learn
 - Streamlit
 
-## Run Project
-
-pip install -r requirements.txt
-
-streamlit run app.py
+## Live Demo
+<https://ipl-winner-predictor-pro-usumldp54ltjak2zsfuy8e.streamlit.app/>
